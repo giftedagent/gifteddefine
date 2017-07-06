@@ -1,1 +1,6 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+あらゆる事は空である
+
+色（存在）は関係性である
+
+関係性をここに分離する
+
